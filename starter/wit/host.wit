@@ -1,0 +1,3 @@
+default world host {
+  export hello: func(name: string) -> string
+}
